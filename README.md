@@ -36,9 +36,10 @@ Using a block element, to achieve the overall visual unity.
 
 http://www.zcool.com.cn/work/ZMTkzMjMxMjA=.html
 
-![Inspire Card](https://dribbble.com/shots/3136207-Explore)
+![Explore](-Graduation-Project/Interim reply/explore-final---zcool.gif)
 
 ----
+
 ##### Reach me #####
 
 Twitter: [yhmnin](https://twitter.com/yhmninn?lang=zh-cn)
