@@ -34,7 +34,6 @@
 
 - 在完成毕设项目之前，尝试了给户外摄影爱好者和野外探索的人提供一个记事分享的平台，主要通过文字、图片、视频三大模块来记录
 - The following are the complete project links
-
 > http://www.zcool.com.cn/work/ZMTkzMjMxMjA=.html
 
 ![Explore](https://github.com/yhmnin/-Graduation-Project/blob/master/Interim%20reply/explore-final---zcool.gif)
