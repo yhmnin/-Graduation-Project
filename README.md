@@ -14,15 +14,15 @@
 ----
 
 #### Opening report
-Begain  详细的介绍了即将开发的写作分享类 App 的概况：
+##### Begain  详细的介绍了即将开发的写作分享类 App 的概况：
 
 1. 研究的目的和意义：( Aim & Significance )
  > 通过具备着实时、简洁高效的图文编排原则, 能够为用户提供的内心独白兼备人文关怀的应用
 2. 分析市场上已有的小记、简书、知乎、字里行间、Dayone、Medium 等几款 App 应用，分析各自的优势与特点
 
-- modify
+##### modify
   主要是对于格式和思维方向的修改
-- Last
+##### Last
 ----
 
 ####  Interim reply
