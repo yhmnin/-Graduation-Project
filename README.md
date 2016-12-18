@@ -12,7 +12,7 @@
 ----
 
 #### Opening report
-- Begain  详细的介绍了即将开发的写作分享类 App 的概况：
+Begain  详细的介绍了即将开发的写作分享类 App 的概况：
 
 1. 研究的目的和意义：( Aim & Significance )
  > 通过具备着实时、简洁高效的图文编排原则, 能够为用户提供的内心独白兼备人文关怀的应用
@@ -24,7 +24,13 @@
 ----
 
 ####  Interim reply
-1.Competitive analysis
-2.Wireframe
-3.PPT
+
+1. Competitive analysis
+2. Wireframe
+3. PPT
+-
+The project is designed for outdoor photography enthusiasts and outdoor exploration of people to provide a platform to share notes, mainly through the text, pictures, video three modules to record.
+-
+Using a block element, to achieve the overall visual unity.
+
 http://www.zcool.com.cn/work/ZMTkzMjMxMjA=.html
