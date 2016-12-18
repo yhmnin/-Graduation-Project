@@ -30,8 +30,20 @@ Begain  详细的介绍了即将开发的写作分享类 App 的概况：
 2. Wireframe
 3. PPT
 
- > 在完成毕设项目之前，尝试了给户外摄影爱好者和野外探索的人提供一个记事分享的平台，主要通过文字、图片、视频三大模块来记录。。
-The project is designed for outdoor photography enthusiasts and outdoor exploration of people to provide a platform to share notes, mainly through the text, pictures, video three modules to record.
+{在完成毕设项目之前，尝试了给户外摄影爱好者和野外探索的人提供一个记事分享的平台，主要通过文字、图片、视频三大模块来记录} 
+++ The project is designed for outdoor photography enthusiasts and outdoor exploration of people to provide a platform to share notes, mainly through the text, pictures, video three modules to record.
 Using a block element, to achieve the overall visual unity.
 
 http://www.zcool.com.cn/work/ZMTkzMjMxMjA=.html
+
+![Inspire Card](https://dribbble.com/shots/3136207-Explore)
+
+----
+##### Reach me #####
+
+Twitter: [yhmnin](https://twitter.com/yhmninn?lang=zh-cn)
+
+Dribbble: [yhmnin](https://dribbble.com/yhmnin)
+
+Weibo: [yhmnin](http://weibo.com/3824335154/profile?topnav=1&wvr=6&is_all=1)
+
