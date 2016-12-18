@@ -36,7 +36,7 @@ Using a block element, to achieve the overall visual unity.
 
 http://www.zcool.com.cn/work/ZMTkzMjMxMjA=.html
 
-![Explore](-Graduation-Project/Interim reply/explore-final---zcool.gif)
+![Explore](https://github.com/yhmnin/-Graduation-Project/blob/master/Interim%20reply/explore-final---zcool.gif)
 
 ----
 
